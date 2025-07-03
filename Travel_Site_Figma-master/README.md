@@ -6,6 +6,9 @@ This Figma file showcases the design for an innovative travel website. It includ
 **Design Tools**
 * Figma
 
+* 🔗 Figma Design Link:
+👉 View Travel Website on Figma
+
 ## Images
 ![Homepage Design](img1.png)
 ![Homepage Design](img2.png)

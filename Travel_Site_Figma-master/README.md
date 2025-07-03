@@ -7,7 +7,7 @@ This Figma file showcases the design for an innovative travel website. It includ
 * Figma
 
 * 🔗 Figma Design Link:
-👉 View Travel Website on Figma
+👉 View Travel Website on Figma -> https://www.figma.com/design/BPqaVz54qPfXEuSwtGB8cG/Travel-site?node-id=0-1&t=2XSF9sgC79X5NUvK-1
 
 ## Images
 ![Homepage Design](img1.png)
